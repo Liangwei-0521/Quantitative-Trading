@@ -1,26 +1,26 @@
 # Quantitative-Trading
-Single stock trading strategies based on DQN, DDQN and BCDDQN. 
+Single stock trading strategies based on DQN, DDQN, Behavioural cloning and BCDDQN. 
 
 ## Technology Stack
 
 - Pytorch
 - Request
 
-## result
+## Result
 
-![项目截图](/path/to/screenshot.png)
+![项目截图](https://github.com/1998-Chen/Quantitative-Trading/blob/main/Result/000001_SZ.svg)
 
 ## 代码示例
 
 这里可以展示一些项目中的代码示例，以便其他人更好地了解你的项目。
 
-## 贡献指南
+## Contribution Guide
 
 贡献代码或向项目提交问题报告、建议等的指南。
 
-## 版权信息
+## Copyright information
 
-项目的版权信息和许可证，以及其他相关法律信息。
+If you like this project, please cite "Deep reinforcement learning stock trading strategies considering behavioral cloning" from the Journal of Systems Management.
 
 ## 参考资料
 
