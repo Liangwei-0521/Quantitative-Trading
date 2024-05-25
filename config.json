@@ -1,0 +1,22 @@
+{
+  "cost":0.001,
+  "window_length": 15,
+  "timeperiod": 15,
+  "balance": 100000,
+  "device": "cuda:0",
+  "state_dim": 150,
+  "hidden_dim": 50,
+  "action_dim": 3,
+  "learning_rate": 0.001,
+  "times": 2500,
+  "batch_size": 512,
+
+  "start": 2000,
+  "gamma": 0.95,
+  "epsilon": 0.01,
+  "target_update":10,
+
+  "lambda_1": 0.5,
+  "lambda_2": 0.5
+
+}
