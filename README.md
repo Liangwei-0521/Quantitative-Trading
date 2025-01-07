@@ -42,14 +42,5 @@ Single stock trading strategies based on DQN, DDQN, Behavioural cloning and BCDD
                     self.shares[-1] = 0
                     self.reward = np.log(self.balance + self.stock[self.day].close.values[-1] * self.shares[-1] - begin_value)
 
-## Copyright information
 
-If you like this project, please cite "Deep reinforcement learning stock trading strategy considering behavioral cloning" from the Journal of Systems Management.
 
-## Corresponding author
-
-zhangy@gdut.edu.cn
-
-## Support
-
-This research was supported by the Guangdong Basic and Applied Basic Research Foundation (No. 2023A1515012840)
